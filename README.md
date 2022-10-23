@@ -3,9 +3,9 @@
 
 <p align="center";"><img src="https://github.com/varvaraptl/varvaraptl/blob/main/HeavenlyTatteredGordonsetter-mobile.gif" alt="Logo"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varvaraptl&label=Profile%20views&color=0e75b6&style=flat" alt="varvaraptl" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varvaraptl" alt="varvaraptl" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varvaraptl&label=Profile%20views&color=0e75b6&style=flat" alt="varvaraptl" /> </p>
 
 - 🔭 I’m currently working on [Easy_ad](https://github.com/varvaraptl/Our_Poject)
 
