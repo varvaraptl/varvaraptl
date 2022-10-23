@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varvara Petrova</h1>
 <h3 align="center">A passionate Data Scientist living in Qatar, in IT for 6 years. My passion is machine learning with business related impact. I take care what value my solution will bring to the business.</h3>
 
-![till] (https://gifyu.com/image/S9yRS)
+![til] (https://gifyu.com/image/S9yRS)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varvaraptl&label=Profile%20views&color=0e75b6&style=flat" alt="varvaraptl" /> </p>
 
