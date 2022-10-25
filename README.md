@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://kaggle.com/varvarapetrova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varvarapetrova" height="30" width="40" /></a>
 <a href="https://instagram.com/vare4kap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vare4kap" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varvara-petrova/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="varvarapetrova" height="70" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
