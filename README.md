@@ -11,12 +11,13 @@
 
 - 🌱 I’m currently learning **Pytorch, Computer Vision**
 
-- 👨‍💻 5kyu on CodeWars [https://www.codewars.com/users/Vare4ka18](https://www.codewars.com/users/Vare4ka18)
+- <a href="https://www.codewars.com/users/Vare4ka18" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="varvarapetrova" height="17" width="17" /></a> 5kyu on CodeWars
 
 - 📫 How to reach me **varvara.ptr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="varvara.ptr@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="varvarapetrova" height="35" width="40" /></a>
 <a href="https://kaggle.com/varvarapetrova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varvarapetrova" height="30" width="40" /></a>
 <a href="https://instagram.com/vare4kap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vare4kap" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/varvara-petrova/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="varvarapetrova" height="70" width="100" /></a>
