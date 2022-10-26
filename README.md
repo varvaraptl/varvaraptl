@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/varvarapetroval" target="blank"><img align="center" src="https://i.pinimg.com/originals/6c/38/5d/6c385d1722eec2c5a10d2808d6ef6b96.png" alt="varvarapetrova" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/varvara-petrova/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="varvarapetrova" height="70" width="100" /></a>
 <a href="varvara.ptr@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" alt="varvarapetrova" height="35" width="40" /></a>
 <a href="https://kaggle.com/varvarapetrova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varvarapetrova" height="30" width="40" /></a>
 <a href="https://instagram.com/vare4kap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vare4kap" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/varvara-petrova/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="varvarapetrova" height="70" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
