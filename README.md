@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Pytorch, Computer Vision**
 
-- <a href="https://www.codewars.com/users/Varvaraptl" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="varvarapetrova" height="17" width="17" /></a> 5kyu on CodeWars
+- <a href="https://www.codewars.com/users/Varvaraptl" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="varvarapetrova" height="17" width="17" /></a> 4kyu on CodeWars
 
 - 📫 How to reach me **varvara.ptr@gmail.com**
 
