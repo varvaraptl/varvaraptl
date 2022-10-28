@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varvaraptl&label=Profile%20views&color=0e75b6&style=flat" alt="varvaraptl" /> </p>
 
-- 🔭 I’m currently working on [Easy_ad](https://github.com/varvaraptl/Our_Poject)
+- 🔭 I’m currently working on [Easy_ad](https://github.com/varvaraptl/Our_Poject) and [Gender_by_Transaction](https://github.com/varvaraptl/Gender_by_transactions)
 
 - 🌱 I’m currently learning **Pytorch, Computer Vision**
 
