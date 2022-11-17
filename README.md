@@ -13,7 +13,7 @@
 
 - <a href="https://www.codewars.com/users/Varvaraptl" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="varvarapetrova" height="17" width="17" /></a> 4kyu on CodeWars <a href="https://www.codewars.com/users/Varvaraptl" target="blank"><img align="center" src="https://github.com/varvaraptl/varvaraptl/blob/main/CodeWars.png" alt="varvarapetrova" height="50" width="280" /></a>
 
-- 📫 How to reach me **varvara.ptr@gmail.com**
+- 📫  How to reach me **varvara.ptr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
