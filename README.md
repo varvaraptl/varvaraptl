@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varvara Petrova</h1>
-<h3 align="left">A passionate Data Scientist from Russia living in Qatar, in IT for 6 years. My passion is machine learning with business related impact. I take care what value my solution will bring to the business.</h3>
+<h3 align="left">A passionate Data Scientist from Russia living in Qatar, in IT for 7 years. My passion is machine learning with business related impact. I take care what value my solution will bring to the business.</h3>
 
 <p align="center";"><img src="https://github.com/varvaraptl/varvaraptl/blob/main/HeavenlyTatteredGordonsetter-mobile.gif" alt="Logo"></p>
 
